@@ -1,0 +1,23 @@
+# Java
+*.class
+*.war
+*.ear
+
+# Idea
+.idea
+.settings
+*.iml
+*.iws
+*.ipr
+
+
+# Build
+out
+build
+bin
+target
+
+# Other
+*.log
+*.swp
+*.bk
